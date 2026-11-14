@@ -29,9 +29,6 @@ Ce dépôt est l'index de remise du TP Git et GitHub. Il regroupe les liens vers
 ### Bilan des commandes (dépôt calcul-c)
 
 #### git status
-```
-COLLE ICI LE RÉSULTAT DE git status DANS calcul-c
-```
 
 #### git remote -v
 ```
