@@ -58,6 +58,4 @@ origin  https://github.com/nassi595/calcul-c-equipe.git (push)
 ```
 
 #### git log --oneline --graph --all
-```
-COLLE ICI LE RÉSULTAT DE git log --oneline --graph --all DANS calcul-c-equipe
-```
+
