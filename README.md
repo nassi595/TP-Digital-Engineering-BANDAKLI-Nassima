@@ -52,8 +52,6 @@ COLLE ICI LE RÉSULTAT DE git log --oneline --graph --all DANS calcul-c
 
 **Dépôt collaboratif commun :** https://github.com/nassi595/calcul-c-equipe
 
-**Mon rôle :** ÉCRIS ICI TON RÔLE
-
 **Pull request fusionnée :** https://github.com/nassi595/calcul-c-equipe/pull/1
 
 ### Bilan des commandes (dépôt calcul-c-equipe)
