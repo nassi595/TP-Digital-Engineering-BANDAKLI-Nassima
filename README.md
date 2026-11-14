@@ -37,11 +37,7 @@ origin  https://github.com/nassi595/calcul-c.git (push)
 ```
 
 #### git log --oneline --graph --all
-```
-COLLE ICI LE RÉSULTAT DE git log --oneline --graph --all DANS calcul-c
-```
 
----
 
 ## Exercice 2 — calcul-c-equipe
 
@@ -54,9 +50,6 @@ COLLE ICI LE RÉSULTAT DE git log --oneline --graph --all DANS calcul-c
 ### Bilan des commandes (dépôt calcul-c-equipe)
 
 #### git status
-```
-COLLE ICI LE RÉSULTAT DE git status DANS calcul-c-equipe
-```
 
 #### git remote -v
 ```
